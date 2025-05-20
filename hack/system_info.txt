@@ -1,0 +1,77 @@
+--- Registro Fri May 16 12:40:06 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+
+--- Registro Fri May 16 12:40:36 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+
+--- Registro Fri May 16 12:41:06 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+
+--- Registro Fri May 16 12:41:36 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+
+--- Registro Fri May 16 12:42:06 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+
+--- Registro Fri May 16 12:42:36 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+
+--- Registro Fri May 16 12:43:06 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+
+--- Registro Fri May 16 12:43:23 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+WiFi SSID: Error al obtener SSID: 'utf-8' codec can't decode byte 0xa2 in position 85: invalid start byte
+
+--- Registro Fri May 16 12:43:53 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+WiFi SSID: Error al obtener SSID: 'utf-8' codec can't decode byte 0xa2 in position 85: invalid start byte
+
+--- Registro Fri May 16 12:44:23 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+WiFi SSID: Error al obtener SSID: 'utf-8' codec can't decode byte 0xa2 in position 85: invalid start byte
+
+--- Registro Fri May 16 12:44:54 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+WiFi SSID: Error al obtener SSID: 'utf-8' codec can't decode byte 0xa2 in position 85: invalid start byte
+
+--- Registro Fri May 16 12:45:24 2025 ---
+Username: PROA_108
+OS: Windows 10
+Hostname: DESKTOP-254JTQL
+Local IP: 192.168.40.157
+WiFi SSID: Error al obtener SSID: 'utf-8' codec can't decode byte 0xa2 in position 85: invalid start byte
+

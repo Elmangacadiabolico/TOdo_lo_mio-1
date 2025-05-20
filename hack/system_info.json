@@ -1,0 +1,22 @@
+{
+    "timestamp": "Fri May 16 13:34:39 2025",
+    "username": "PROA_108",
+    "os": "Windows 10",
+    "hostname": "DESKTOP-254JTQL",
+    "ip_privada": "192.168.40.157",
+    "wifi_ssid": "Conectividad Cordoba",
+    "wifi_bssid": "dc:08:56:2a:14:d1",
+    "wifi_signal": "99%",
+    "ip_publica": "190.194.105.154",
+    "ubicacion_aproximada_por_ip": {
+        "ciudad": "Córdoba",
+        "region": "Cordoba",
+        "pais": "Argentina",
+        "coordenadas": "-31.4057,-64.1849",
+        "proveedor": "Telecom Argentina S.A."
+    },
+    "ubicacion_precisa_por_bssid": {
+        "coordenadas": "No disponibles",
+        "error": "No se pudo obtener ubicación precisa del BSSID"
+    }
+}
